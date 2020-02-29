@@ -1,5 +1,10 @@
 sofjpjf
 wfnioenhgfe
 wnfripwnpg
+<<<<<<< Updated upstream
 change
 bro
+=======
+my 
+your change
+>>>>>>> Stashed changes
