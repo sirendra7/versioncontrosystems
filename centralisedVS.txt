@@ -2,8 +2,13 @@ sofjpjf
 wfnioenhgfe
 wnfripwnpg
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 change
 bro
+=======
+my 
+your change
+>>>>>>> Stashed changes
 =======
 my 
 your change
